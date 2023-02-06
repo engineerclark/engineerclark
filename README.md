@@ -1,4 +1,20 @@
-### Hi there 👋
+## About Me ##
+I'm a U.S.-based Software Engineer with 14 years of engineering experience.
+
+## Professional Background ##
+### Foundational Full-Stack Experience (2008 - 2014) ###
+* Entered the software field as a Web Developer in 2008
+
+
+### Senior Engineering and Leadership Experience (Since 2014) ###
+
+## Projects ##
+
+## Tech Proficiencies ##
+
+### Daily Toolkit ###
+
+
 
 <!--
 **engineerclark/engineerclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
