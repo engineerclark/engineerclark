@@ -24,7 +24,7 @@ These Advent of Code solutions are a fun diversion. These repositories contain a
 * Back-end: Java, Kotlin, Spring Boot, SQL, MongoDB
 * Front-end: Typescript
 * Cloud: Kubernetes, AWS, Docker
-* CI/CD: Git/Github, Jenkins, Automated unit/integration/e2e testing with frameworks such as JUnit, Protractor JS, and selenium
+* CI/CD: Git/Github, Jenkins, Docker builds, Automated unit/integration/e2e testing with frameworks such as JUnit, Protractor JS, and selenium
 * Scripts/CLI: Python 3, KTS, bash, zsh
 * IDEs/Editors: IntelliJ IDEA, VS Code, vim
 
