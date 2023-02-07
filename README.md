@@ -25,12 +25,12 @@ These Advent of Code solutions are a fun diversion. These repositories contain a
 * Front-end: Typescript
 * Cloud: Kubernetes, AWS, Docker
 * CI/CD: Git/Github, Jenkins, Automated unit/integration/e2e testing with frameworks such as JUnit
-* Scripts / CLI: Python 3, KTS, bash
+* Scripts / CLI: Python 3, KTS, bash, zsh
 * IDEs: IntelliJ IDEA, VS Code
 
 ### Other Extensive Experience (5+ years) ###
 * Back-end: C#, .NET Core, ASP.NET MVC, Python, Django
 * Front-end: Typescript, ES6, Angular, React, HTML5, CSS3, Sass
 * Scripting: Powershell
-* Linux: Server administration, bash/zsh, WSL2
+* Linux: Server administration, WSL2
 
