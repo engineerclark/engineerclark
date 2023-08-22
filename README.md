@@ -1,5 +1,69 @@
-## About Me ##
-I'm a U.S.-based Software Engineer with 14 years of engineering experience.
+Hi, I'm Michael!
+==============================
+I'm a Software Craftsman with 15 years of experience in the industry.
+
+## Key Proficiency: Back-end Service Engineering
+![Java](images/badges/java.svg)
+![Kotlin](images/badges/kotlin.svg)
+![Spring Boot](images/badges/springboot.svg)
+![Scala](images/badges/scala.svg)
+![C#](images/badges/c-sharp.svg)
+![.NET](images/badges/dotnet.svg)
+![MySQL](images/badges/mysql.svg)
+![SQL Server](images/badges/sqlserver.svg)
+![MongoDB](images/badges/mongo.svg)
+![Python](images/badges/python.svg)
+![django](images/badges/django.svg)
+![RabbitMQ](images/badges/rabbitmq.svg)
+![Apache Kafka](images/badges/kafka.svg)
+![Redis](images/badges/redis.svg)
+![AWS](images/badges/aws.svg)
+![Kubernetes](images/badges/kubernetes.svg)
+![Docker](images/badges/docker.svg)
+
+## Key Proficiency: Front-end Development
+![Typescript](images/badges/typescript.svg)
+![Javascript](images/badges/javascript.svg)
+![Angular](images/badges/angular.svg)
+![React](images/badges/react.svg)
+![HTML5](images/badges/html5.svg)
+![CSS3](images/badges/css3.svg)
+![Sass](images/badges/sass.svg)
+
+## Key Proficiency: Functional and Declarative Paradigms ##
+![Scala](images/badges/scala.svg)
+![Kotlin](images/badges/kotlin.svg)
+
+## Key Proficiency: AI, Machine Learning, and Data Science ##
+![Python](images/badges/python.svg)
+
+## Q&A ##
+
+### Why do you consider yourself a software craftsman? ###
+
+
+
+## Books ##
+Some books that have helped me become a better Software Engineer and Craftsman 
+over the years.  I recommend them to engineers at all levels of experience.
+
+<img src="images/pragmatic_programmer.jpg" alt="The Pragmatic Programmer" style="width:200px; height: 260px; margin: 0 20px; border: 3px solid #fff">
+<img src="images/clean_code.jpg" alt="Clean Code" style="width:200px; height: 260px; margin: 0 20px; border: 3px solid #fff">
+<img src="images/clean_architecture.jpg" alt="Clean Architecture" style="width:200px; height: 260px; margin: 0 20px; border: 3px solid #fff">
+
+* *[The Pragmatic Programmer: Your Journey to Mastery](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)*, by David Thomas and Andrew Hunt
+* *[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)*, by Robert C. Martin
+* *[Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)*, by Robert C. Martin
+
+
+
+
+
+
+
+
+
+
 
 ## Professional Background in brief ##
 * Foundational Full-Stack Experience (2008 - 2014)
