@@ -26,6 +26,7 @@ I'm a Software Craftsman with 15 years of experience in the industry.
 ![Javascript](images/badges/javascript.svg)
 ![Angular](images/badges/angular.svg)
 ![React](images/badges/react.svg)
+![NextJS](images/badges/nextjs.svg)
 ![HTML5](images/badges/html5.svg)
 ![CSS3](images/badges/css3.svg)
 ![Sass](images/badges/sass.svg)
@@ -33,9 +34,13 @@ I'm a Software Craftsman with 15 years of experience in the industry.
 ## Key Proficiency: Functional and Declarative Paradigms ##
 ![Scala](images/badges/scala.svg)
 ![Kotlin](images/badges/kotlin.svg)
+![F#](images/badges/f_sharp.svg)
 
 ## Key Proficiency: AI, Machine Learning, and Data Science ##
 ![Python](images/badges/python.svg)
+![Scikit Learn](images/badges/scikit.svg)
+![OpenAI](images/badges/openai.svg)
+![Sagemaker](images/badges/sagemaker.svg)
 
 ## Q&A ##
 
