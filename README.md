@@ -2,18 +2,19 @@ Hi, I'm Michael!
 ==============================
 I'm a Software Craftsman with 15 years of experience in the industry.
 
-## Key Proficiency: Back-end Service Engineering
+## Key Area: Back-end Development
 ![Java](images/badges/java.svg)
 ![Kotlin](images/badges/kotlin.svg)
 ![Spring Boot](images/badges/springboot.svg)
 ![Scala](images/badges/scala.svg)
+![MySQL](images/badges/mysql.svg)
+![MongoDB](images/badges/mongo.svg)
 ![C#](images/badges/c-sharp.svg)
 ![.NET](images/badges/dotnet.svg)
-![MySQL](images/badges/mysql.svg)
 ![SQL Server](images/badges/sqlserver.svg)
-![MongoDB](images/badges/mongo.svg)
 ![Python](images/badges/python.svg)
 ![django](images/badges/django.svg)
+![PostgreSQL](images/badges/postgres.svg)
 ![RabbitMQ](images/badges/rabbitmq.svg)
 ![Apache Kafka](images/badges/kafka.svg)
 ![Redis](images/badges/redis.svg)
@@ -21,7 +22,25 @@ I'm a Software Craftsman with 15 years of experience in the industry.
 ![Kubernetes](images/badges/kubernetes.svg)
 ![Docker](images/badges/docker.svg)
 
-## Key Proficiency: Front-end Development
+### Project: API and platform for managing custom Data Stream ingestion jobs ###
+This platform is a meta-solution for my employer that offers a bring-your-own-container stream processing engine to internal engineering teams.
+* Stack: Java, Spring Boot, MySQL, RabbitMQ, Docker, AWS, S3, Kubernetes
+* My role: Architect and lead engineer on the project
+* Value added:
+  * Facilitated dozens of new custom back-end processes while avoiding the overhead of traditional service hosting and maintenance
+  * Easy horizontal scaling using Docker/OCI images and Kubernetes - major resource savings when not in demand
+  * Several new revenue streams for the company including usage-based billing that can be passed on to the customer
+
+### Project: Medical Office EHR System Back-end Modernization and Migration to the Cloud ###
+This project consisted of migrating archaic SQL-based business logic (stored procedures) into modern services written in C# and .NET Core. It also integrated with third-party EHR systems while ensuring compliance with HIPAA and other EHR requirements.
+* Stack: C#/.NET Core, Microsoft SQL Server, Docker
+* My role: Senior Engineer
+* Value added:
+  * Vastly improved system reliability and maintainability by migrating business logic out of the database layer and into a new .NET Core service layer
+  * Reduction in hosting costs by migrating API services from .NET Framework to .NET Core multiplatform docker images
+
+
+## Key Area: Front-end Development
 ![Typescript](images/badges/typescript.svg)
 ![Javascript](images/badges/javascript.svg)
 ![Angular](images/badges/angular.svg)
@@ -31,12 +50,20 @@ I'm a Software Craftsman with 15 years of experience in the industry.
 ![CSS3](images/badges/css3.svg)
 ![Sass](images/badges/sass.svg)
 
-## Key Proficiency: Functional and Declarative Paradigms ##
+### Project: Medical Office EHR System Front-end UX Modernization ###
+This project consisted of migrating ActiveX applications and Windows-based WPF desktop applications to a new platform-agnostic web-based UX layer.
+* Stack: Javascript, Typescript, Angular, React, HTML5, CSS3/Sass
+* My role: Senior Engineer
+* Value added:
+  * Improved UX speed, function, and modularity
+  * Expansion of user base as more platforms were supported (particularly tablets as they became more common in medical practices)
+
+## Key Area: Functional and Declarative Paradigms ##
 ![Scala](images/badges/scala.svg)
 ![Kotlin](images/badges/kotlin.svg)
 ![F#](images/badges/f_sharp.svg)
 
-## Key Proficiency: AI, Machine Learning, and Data Science ##
+## Key Area: AI, Machine Learning, and Data Science ##
 ![Python](images/badges/python.svg)
 ![Scikit Learn](images/badges/scikit.svg)
 ![OpenAI](images/badges/openai.svg)
@@ -61,45 +88,4 @@ over the years.  I recommend them to engineers at all levels of experience.
 * *[Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)*, by Robert C. Martin
 
 
-
-
-
-
-
-
-
-
-
-## Professional Background in brief ##
-* Foundational Full-Stack Experience (2008 - 2014)
-  * Entered the software field as a Web Developer in 2008
-  * Gained broad experience developing back-end services with Java/Spring, Python/Django, PHP, SQL, and NoSQL
-  * Front-end experience modernising UX with HTML5, CSS3, JS
-* Senior Engineer and Leader (Since 2014)
-  * Senior Software Engineer work primarily on Enterprise-scale back-end services with Java/Kotlin/Spring Boot and C#/.NET Core; also, front-end UX using ES6, Typescript, Angular, and React
-  * Served as Agile/Scrum Master, Dev Team Leader, Project architect
-  * Continue to learn from other brilliant engineers, having had the chance to work on proficient and pragmatic engineering teams
-
-## Projects ##
-While I can't include my best work on a public platform, I'll continue to add samples of my public work here as a work-in-progress.
-
-### Code Samples ###
-These Advent of Code solutions are a fun diversion. These repositories contain a handful of samples demonstrating how I like to interact with code challenges at a tactical level.
-* [AoC 2022](https://github.com/engineerclark/advent-of-code-2022/)
-* [AoC 2021](https://github.com/engineerclark/advent-of-code-2021/)
-
-## Tech Proficiencies ##
-### Current Daily Toolkit ###
-* Back-end: Java, Kotlin, Spring Boot, SQL, MongoDB
-* Front-end: Typescript
-* Cloud: Kubernetes, AWS, Docker
-* CI/CD: Git/Github, Jenkins, Docker builds, Automated unit/integration/e2e testing with frameworks such as JUnit, Protractor JS, and selenium
-* Scripts/CLI: Python 3, KTS, bash, zsh
-* IDEs/Editors: IntelliJ IDEA, VS Code, vim
-
-### Other Extensive Experience (5+ years) ###
-* Back-end: C#, .NET Core, ASP.NET MVC, Python, Django
-* Front-end: Typescript, ES6, Angular, React, HTML5, CSS3, Sass
-* Scripting: Powershell
-* Linux: Server administration, WSL2
 
