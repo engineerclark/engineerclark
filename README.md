@@ -23,16 +23,16 @@ I'm a Software Craftsman with 15 years of experience in the industry.
 ![Docker](images/badges/docker.svg)
 
 ### Project: API and platform for managing custom Data Stream ingestion jobs ###
-This platform is a meta-solution for my employer that offers a bring-your-own-container stream processing engine to internal engineering teams.
+A meta-solution for my employer that offers a bring-your-own-container stream processing engine to internal engineering teams.
 * Stack: Java, Spring Boot, MySQL, RabbitMQ, Docker, AWS, S3, Kubernetes
 * My role: Architect and lead engineer on the project
 * Value added:
   * Facilitated dozens of new custom back-end processes while avoiding the overhead of traditional service hosting and maintenance
   * Easy horizontal scaling using Docker/OCI images and Kubernetes - major resource savings when not in demand
-  * Several new revenue streams for the company including usage-based billing that can be passed on to the customer
+  * Several new revenue streams for the company including consumption-based billing for data ingestion that can be passed on to the customer
 
 ### Project: Medical Office EHR System Back-end Modernization and Migration to the Cloud ###
-This project consisted of migrating archaic SQL-based business logic (stored procedures) into modern services written in C# and .NET Core. It also integrated with third-party EHR systems while ensuring compliance with HIPAA and other EHR requirements.
+Migrated archaic SQL-based business logic (stored procedures) into modern services written in C# and .NET Core. It also integrated with third-party EHR systems while ensuring compliance with HIPAA and other EHR requirements.
 * Stack: C#/.NET Core, Microsoft SQL Server, Docker
 * My role: Senior Engineer
 * Value added:
@@ -51,7 +51,7 @@ This project consisted of migrating archaic SQL-based business logic (stored pro
 ![Sass](images/badges/sass.svg)
 
 ### Project: Medical Office EHR System Front-end UX Modernization ###
-This project consisted of migrating ActiveX applications and Windows-based WPF desktop applications to a new platform-agnostic web-based UX layer.
+Migrated ActiveX applications and Windows-based WPF desktop applications to a new platform-agnostic web-based UX layer.
 * Stack: Javascript, Typescript, Angular, React, HTML5, CSS3/Sass
 * My role: Senior Engineer
 * Value added:
@@ -62,12 +62,35 @@ This project consisted of migrating ActiveX applications and Windows-based WPF d
 ![Scala](images/badges/scala.svg)
 ![Kotlin](images/badges/kotlin.svg)
 ![F#](images/badges/f_sharp.svg)
+![Project Reactor](images/badges/projectreactor.svg)
+
+### Project: Distributed BI Content Publication Service ###
+A solution for customers to publish datasets and BI dashboard content to subscribers. Data updates are streamed to subscribers and are reflected on their dashboards in near real-time.
+* Stack: Kotlin, Spring Boot, Project Reactor, Apache Kafka, RabbitMQ, MySQL, Redis, AWS
+* My role: Architect and lead engineer on the project
+* Value added:
+  * Saves many man hours previously spent exporting and re-creating data-driven BI dashboards
+  * Provides organizations with a way to distribute living data visualizations rather than static snapshots
+  * Uses a distributed architecture to avoid a central point of failure or degradation of resources during high traffic periods
+  * Low latency, parallel processing, and efficient resource usage achieved through a Reactive Programming approach (Project Reactor)
+
 
 ## Key Area: AI, Machine Learning, and Data Science ##
 ![Python](images/badges/python.svg)
 ![Scikit Learn](images/badges/scikit.svg)
 ![OpenAI](images/badges/openai.svg)
 ![Sagemaker](images/badges/sagemaker.svg)
+
+### Project: Back-end Service Integration with OpenAI, AWS Sagemaker, Hugging Face ###
+A service abstraction layer to wrap multiple AI/ML providers and create new products on top of them.
+* Stack: Kotlin, Java, Spring Boot, MySQL, OpenAI, AWS Sagemaker, Python, Kubernetes, Hugging Face
+* My role: Senior Engineer
+* Value added:
+  * Integrated with AI/ML providers to offer new AI-based services such as text-to-sql and other text generation assistance
+  * Provided a platform for customers to interact with a knowledge base and their own data with natural language
+  * Enabled customers to decouple their AI creations from specific vendors and models
+    * Makes it possible to run and compare the performance of different models and avoid vendor lock-in
+
 
 ## Q&A ##
 

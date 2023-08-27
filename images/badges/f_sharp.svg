@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="94.5"
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="55"
     height="28" role="img" aria-label="F#">
     <title>F#</title>
     <g shape-rendering="crispEdges">
-        <rect width="60" height="28" fill="#2EB3D4" />
+        <rect width="55" height="28" fill="#2EB3D4" />
     </g>
     <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
         text-rendering="geometricPrecision" font-size="100">
