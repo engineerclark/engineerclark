@@ -1,6 +1,6 @@
-Project Summaries
+Project Spotlights
 ==============================
-A few projects I've had the opportunity to work on.
+Summaries for a few projects I'm particularly proud of.
 
 ## Project: API and platform for managing custom Data Stream ingestion jobs ##
 ![Kotlin](images/badges/kotlin.svg)
@@ -14,6 +14,7 @@ A few projects I've had the opportunity to work on.
 
 A meta-solution for my employer that offers a bring-your-own-container stream processing engine to internal engineering teams.
 * Stack: Kotlin, Java, Spring Boot, MySQL, RabbitMQ, Docker, AWS, S3, Kubernetes
+* Service Architecture: Clean/Hexagonal + Event-Driven architecture within a SOA system
 * My role: Architect and lead engineer on the project
 * Value added:
   * Facilitated dozens of new custom back-end processes while avoiding the overhead of traditional service hosting and maintenance
@@ -28,6 +29,7 @@ A meta-solution for my employer that offers a bring-your-own-container stream pr
 
 Migrated archaic SQL-based business logic (stored procedures) into modern services written in C# and .NET Core. It also integrated with third-party EHR systems while ensuring compliance with HIPAA and other EHR requirements.
 * Stack: C#/.NET Core, Microsoft SQL Server, Docker
+* Service Architecture: Multi-tier services within a Microservice architecture
 * My role: Senior Engineer
 * Value added:
   * Vastly improved system reliability and maintainability by migrating business logic out of the database layer and into a new .NET Core service layer
@@ -42,8 +44,9 @@ Migrated archaic SQL-based business logic (stored procedures) into modern servic
 ![CSS3](images/badges/css3.svg)
 ![Sass](images/badges/sass.svg)
 
-Migrated ActiveX applications and Windows-based WPF desktop applications to a new platform-agnostic web-based UX layer.
+Migrated Windows-based EHR and Patient Management applications to a new platform-agnostic web-based UX layer.
 * Stack: Javascript, Typescript, Angular, React, HTML5, CSS3/Sass
+* Application Architectures: Single-Page Applications with MVC architecture (Angular), Component architecture (React)
 * My role: Senior Engineer
 * Value added:
   * Improved UX speed, function, and modularity
@@ -62,6 +65,7 @@ Migrated ActiveX applications and Windows-based WPF desktop applications to a ne
 A solution for customers to publish datasets and BI dashboard content to subscribers. Data updates are streamed to subscribers and are reflected on their dashboards in near real-time.
 
 * Stack: Kotlin, Spring Boot, Project Reactor, Apache Kafka, RabbitMQ, MySQL, Redis, AWS
+* Service Architecture: Event-Driven + Reactive + Hexagonal Architecture within a SOA system
 * My role: Architect and lead engineer on the project
 * Value added:
   * Saves many man hours previously spent exporting and re-creating data-driven BI dashboards
@@ -69,7 +73,7 @@ A solution for customers to publish datasets and BI dashboard content to subscri
   * Uses a distributed architecture to avoid a central point of failure or degradation of resources during high traffic periods
   * Low latency, parallel processing, and efficient resource usage achieved through a Reactive Programming approach (Project Reactor)
 
-## Project: Back-end Service Integration with OpenAI, AWS Sagemaker, Hugging Face ##
+## Project: Back-end Service Integration with OpenAI, Amazon Sagemaker, Hugging Face ##
 ![Kotlin](images/badges/kotlin.svg)
 ![Java](images/badges/java.svg)
 ![Spring Boot](images/badges/springboot.svg)
@@ -82,10 +86,15 @@ A solution for customers to publish datasets and BI dashboard content to subscri
 ![AWS](images/badges/aws.svg)
 
 A service abstraction layer to wrap multiple AI/ML providers and create new products on top of them.
-* Stack: Kotlin, Java, Spring Boot, MySQL, OpenAI, AWS Sagemaker, Hugging Face, Python, Kubernetes, Docker, AWS
+* Stack: Kotlin, Java, Spring Boot, MySQL, OpenAI, Amazon Sagemaker, Hugging Face, Python, Kubernetes, Docker, AWS
+* Service Architecture: Clean Architecture within a SOA system
 * My role: Senior Engineer
 * Value added:
   * Integrated with AI/ML providers to offer new AI-based services such as text-to-sql and other text generation assistance
   * Provided a platform for customers to interact with a knowledge base and their own data with natural language
-  * Enabled customers to decouple their AI creations from specific vendors and models
-    * Makes it possible to run and compare the performance of different models and avoid vendor lock-in
+  * Enabled customers to decouple their AI processes from specific vendors and models
+
+## Contact Me ##
+If you would like to know more about any of my projects or you think I might make a good contributor or consultant for yours, I would like to talk to you!
+
+Please drop me a line at the email address listed here on my Github profile.
